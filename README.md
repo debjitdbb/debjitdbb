@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Blockchain
+- 🔭 I’m currently working on Blockchain and web3 based technologies
 - 🌱 I’m currently learning Solidity and Microservices
 - 👯 I’m looking to collaborate on interesting project ideas on Blockchain
 - 🤔 I’m looking for help with Solidity, web3 frameworks and React
